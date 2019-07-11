@@ -10,8 +10,6 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import java.util.Objects;
-
 import polinema.ac.id.dtsapp.data.AppDbProvider;
 import polinema.ac.id.dtsapp.data.User;
 import polinema.ac.id.dtsapp.data.UserDao;
